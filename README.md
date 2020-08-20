@@ -1,2 +1,2 @@
-# Azure_Notebook_Projects
+# Azure Notebook Projects
 Imported from Azure Notebook Microsoft Projects
